@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Titanic",
+    "thumbnail": "http://localhost:4000/images/movies.jpg" 
+  },
+  {
+    "title": "Dogville",
+    "thumbnail": "http://localhost:4000/images/movies.jpg" 
+  },
+  {
+    "title": "Troy",
+    "thumbnail": "http://localhost:4000/images/movies.jpg" 
+  },
+  {
+    "title": "Scream",
+    "thumbnail": "http://localhost:4000/images/movies.jpg" 
+  },
+  {
+    "title": "Call Me By Your Name",
+    "thumbnail": "http://localhost:4000/images/movies.jpg" 
+  },
+  {
+    "title": "Don't Look Up",
+    "thumbnail": "http://localhost:4000/images/movies.jpg" 
+  },
+  {
+    "title": "Blue Jasmine",
+    "thumbnail": "http://localhost:4000/images/movies.jpg" 
+  },
+  {
+    "title": "Catch Me If You Can",
+    "thumbnail": "http://localhost:4000/images/movies.jpg" 
+  }
+]
